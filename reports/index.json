@@ -1,0 +1,30 @@
+[
+  {
+    "id": "20260209-181158-n6cf",
+    "title": "Not Haro",
+    "commanders": [
+      "Not Haro"
+    ],
+    "dateStart": "2026-02-10T02:11:58.000Z",
+    "dateEnd": "2026-02-10T03:27:29.000Z",
+    "dateLabel": "2/9/2026, 6:11:58 PM - 2/9/2026, 7:27:29 PM",
+    "url": "https://Shanhana.github.io/Shanhana/?report=20260209-181158-n6cf",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 14,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 36
+    }
+  }
+]
