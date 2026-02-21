@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260220-181700-ezfi",
+    "title": "Charrmander Harasho, Suturs Fury",
+    "commanders": [
+      "Charrmander Harasho",
+      "Suturs Fury"
+    ],
+    "dateStart": "2026-02-21T02:17:00.000Z",
+    "dateEnd": "2026-02-21T04:03:42.000Z",
+    "dateLabel": "2/20/2026, 6:17:00 PM - 2/20/2026, 8:03:42 PM",
+    "url": "https://Shanhana.github.io/Shanhana/?report=20260220-181700-ezfi",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 24,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 51
+    }
+  },
+  {
     "id": "20260212-180225-ex15",
     "title": "Guardian Kamoidra, Mesmer Kamoidra",
     "commanders": [
